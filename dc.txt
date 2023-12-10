@@ -1,0 +1,21 @@
+
+//本文件配置地址: https://raw.fgit.cf/liu673cn/ck/main/dc.txt
+
+{"urls": [
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/duo/m.json","name":"duo"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/xduo/m.json","name":"xduo"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/tm/m.json","name":"tm"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/tms/m.json","name":"tms"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/liucn/m.json","name":"老刘线路"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/fm/m.json","name":"fm-JS"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/fty/m.json","name":"饭太硬"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/fengmi/m.json","name":"蜂蜜"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/hexiu/m.json","name":"荷城茶秀"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/ysc/m.json","name":"运输车"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/xc/m.json","name":"南风"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/xma/m.json","name":"小马"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/xyq/m.json","name":"香雅晴"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/cainisi/m.json","name":"菜妮丝"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/qiaoji/m.json","name":"巧技"}
+]
+}
