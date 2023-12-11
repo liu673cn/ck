@@ -16,6 +16,7 @@
 {"url": "https://raw.fgit.cf/liu673cn/ck/main/box/xma/m.json","name":"小马"},
 {"url": "https://raw.fgit.cf/liu673cn/ck/main/box/xyq/m.json","name":"香雅晴"},
 {"url": "https://raw.fgit.cf/liu673cn/ck/main/box/cainisi/m.json","name":"菜妮丝"},
+{"url": "https://raw.fgit.cf/liu673cn/ck/main/box/yun/m.json","name":"云星日记"},
 {"url": "https://raw.fgit.cf/liu673cn/ck/main/box/qiaoji/m.json","name":"巧技"}
 ]
 }
